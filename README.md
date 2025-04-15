@@ -5,9 +5,8 @@
 <p align="left">
 🎓 Final-year Information Systems student at the Faculty of Computer Science, Universitas Indonesia.<br>
 🚀 Enthusiast in data, product, and machine learning development.<br>
-🤖 Passionate about leveraging data, ML, and Generative AI to build impactful solutions.<br><br>
-📫 Reach me at: <a href="mailto:kristojeremy@gmail.com">kristojeremy@gmail.com</a><br>
-🔗 Connect with me on <a href="https://www.linkedin.com/in/kristo-jeremy-thady-tobing/" target="_blank">LinkedIn</a>
+🤖 Passionate about leveraging data, ML, and Generative AI to build impactful solutions.<br>
+📫 Reach me at: <a href="mailto:kristojeremy@gmail.com">kristojeremy@gmail.com</a> or <a href="https://www.linkedin.com/in/kristo-jeremy-thady-tobing/" target="_blank">LinkedIn</a><br>
 </p>
 
 ###
@@ -45,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -84,6 +83,4 @@
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/huggingface/FFCA28" height="40" alt="huggingface logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/lookerstudio/4285F4" height="40" alt="looker studio logo" />
 </div>
